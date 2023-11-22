@@ -150,7 +150,7 @@ When committing to git, an automated script will run. This will check that your 
 
 # Security
 
-For any security vulnerabilities or concerns, please contact us directly at security[at]speckle.systems.
+For any security vulnerabilities or concerns, please contact us directly at security[at]speckle.systems
 
 # License
 
